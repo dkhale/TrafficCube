@@ -4,7 +4,7 @@ Traffic data analytics tool
 
 ## Overview
 
-TrafficCube is a spatiotemporal traffic analysis platform that seeks to allow AI to operate on large quantities of well-structured data (e.g., months or years-worth of traffic volumes, probe data, weather data, crash data, vehicle trajectories, traffic analysis tool input and output data). Users can download and use the tool at no cost. TrafficCube imports simple CSV files that specify data values for the X and Y axes, and for the Z-axis if needed. To better understand the CSV file format, refer to the demo data files (OutputAverageSpeed_Demo_Metadata.csv, WeatherSeverity_Demo_Metadata.csv). To download the latest version of the tool, click on Releases, on the right side of the GitHub window. Bug reports, feature requests, sample datasets, and technical assistance requests are welcome.
+TrafficCube is a spatiotemporal traffic analysis platform that seeks to allow AI to operate on large quantities of well-structured data (e.g., months or years-worth of traffic volumes, probe data, weather data, crash data, vehicle trajectories, traffic analysis tool input and output data). Users can download and use the tool at no cost. TrafficCube imports simple CSV files that specify data values for the X and Y axes, and for the Z-axis if needed. To better understand the CSV file format, refer to the demo data files (OutputAverageSpeed_Demo_Metadata.csv, WeatherSeverity_Demo_Metadata.csv). To download the latest version of the tool, click on "Releases" on the right side of the GitHub window. Bug reports, feature requests, sample datasets, and technical assistance requests are welcome.
 
 ## Planned Features
 
