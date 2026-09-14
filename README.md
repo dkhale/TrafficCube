@@ -13,8 +13,8 @@ TrafficCube is a spatiotemporal traffic analysis platform that seeks to allow AI
 •	Contributing factor analysis.<br>
 •	Before-and-after assessment.<br>
 •	Simulation calibration and validation.<br>
-•	Highway Capacity Manual (HCM) methods.<br>
 •	Data quality and anomaly identification.<br>
+•	Highway Capacity Manual (HCM) methods.<br>
 •	Machine learning and short-term prediction.<br>
 •	Pattern recognition and congestion diagnosis.<br>
 •	Traffic Analysis Toolbox Volume 3 cluster analysis.
