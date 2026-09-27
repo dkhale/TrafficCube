@@ -22,7 +22,7 @@ TrafficCube is a spatiotemporal traffic analysis platform that seeks to allow AI
 
 ## Development History
 
-Sep 2026: Calculate simple statistics. Allow user to define data types, units, and color schemes for X, Y, and Z axes.<br>
+Sep 2026: Calculate simple statistics. Allow user to customize visualization color schemes and thresholds for each data type. Allow user to customize definitions and units of measurement for the X, Y, and Z axes.<br>
 Aug 2026: Ingest, fuse, and visualize multisource traffic data. Assign default units and color schemes for typical data types.
 
 ## Developer
