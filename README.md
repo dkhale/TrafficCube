@@ -4,7 +4,7 @@ Traffic data analytics tool
 
 ## Overview
 
-TrafficCube is a spatiotemporal traffic analysis platform that seeks to allow AI to operate on large quantities of well-structured data (e.g., months or years-worth of traffic volumes, probe data, weather data, crash data, vehicle trajectories, traffic analysis tool input and output data). Users can download and use the tool at no cost. TrafficCube imports simple CSV files that specify data values for the X and Y axes, and for the Z-axis if needed. To better understand the CSV file format, refer to the demo data files (AverageSpeed_Demo.csv, TrafficVolume_Demo.csv, WeatherSeverity_Demo.csv). To download the latest version of the tool, click on "Releases" on the right side of the GitHub window. The plan is to post newer and more powerful versions every month for the foreseeable future. Bug reports, feature requests, sample datasets, and technical assistance requests are welcome.
+TrafficCube is a spatiotemporal traffic analysis platform that seeks to allow AI to operate on large quantities of well-structured data (e.g., months or years-worth of traffic volumes, probe data, weather data, crash data, vehicle trajectories, traffic analysis tool input and output data). Users can download and use the tool at no cost. TrafficCube imports simple CSV files that specify data values for the X and Y axes, and for the Z-axis if needed. To better understand the CSV file format, refer to the demo data files for speed, travel time, weather, travel time index, or volume. To download the latest version of the tool, click on "Releases" on the right side of the GitHub window. The plan is to post newer and more powerful versions every month for the foreseeable future. Bug reports, feature requests, sample datasets, and technical assistance requests are welcome.
 
 ## Planned Features
 
@@ -23,7 +23,7 @@ TrafficCube is a spatiotemporal traffic analysis platform that seeks to allow AI
 ## Development History
 
 Sep 2026: Calculate simple statistics. Allow user to define data types, units, and color schemes for X, Y, and Z axes.<br>
-Aug 2026: Ingest, fuse, and visualize multisource traffic data.
+Aug 2026: Ingest, fuse, and visualize multisource traffic data. Assign default units and color schemes for typical data types.
 
 ## Developer
 
