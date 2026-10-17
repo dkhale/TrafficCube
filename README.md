@@ -39,4 +39,4 @@ David Hale (david.k.hale@leidos.com)
 
 ## Website
 
-https://www.trafficcube.org/
+https://trafficcube.org
