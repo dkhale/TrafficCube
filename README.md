@@ -1,6 +1,7 @@
 # TrafficCube
 
-Traffic data analytics tool
+Traffic data analytics tool<br>
+Read more at https://trafficcube.org
 
 ## Overview
 
