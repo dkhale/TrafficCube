@@ -9,8 +9,8 @@ TrafficCube is a spatiotemporal traffic analysis platform that seeks to allow AI
 
 ## Planned Features for October 2026
 
-•	Traffic Analysis Toolbox Volume 3 methodology full automation.<br>
 •	Demo data upgrades: 2-week data, full-year data, simulation data.<br>
+•	Traffic Analysis Toolbox Volume 3 calibration envelopes and alternatives analysis.<br>
 •	Multi-day analysis features (e.g., before-and-after analyses, travel time reliability analyses).<br>
 •	Multi-day statistics and visualizations (e.g., line charts, histograms, probability density functions, cumulative distribution functions).
 
@@ -31,6 +31,7 @@ TrafficCube is a spatiotemporal traffic analysis platform that seeks to allow AI
 
 ## Development History
 
+Oct 2026: Multi-day analysis statistics and visualizations. TAT Volume 3 calibration envelopes. Demo data upgrades.<br>
 Sep 2026: TAT Volume 3 cluster analysis. Congestion episode screening. Optional customization of X, Y, and Z axis definitions.<br>
 Aug 2026: Ingest, fuse, and visualize multisource traffic data. Assign default color schemes and units of measurement for typical data types.
 
