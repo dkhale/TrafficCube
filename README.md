@@ -7,14 +7,7 @@ Read more at https://trafficcube.org
 
 TrafficCube is a spatiotemporal traffic analysis platform that seeks to allow AI to operate on large quantities of well-structured data (e.g., months or years-worth of traffic volumes, probe data, weather data, crash data, vehicle trajectories, traffic analysis tool input and output data). Users can download and use the tool at no cost. TrafficCube imports simple CSV files that specify data values for the X and Y axes, and for the Z-axis if needed. To better understand the CSV file format, refer to the demo data files for average speeds, demand volumes, incident crashes, output trips, travel times, and weather severities. To download the latest version of the tool, click on "Releases" on the right side of the GitHub window. The plan is to post newer and more powerful versions every month for the foreseeable future. Bug reports, feature requests, sample datasets, and technical assistance requests are welcome.
 
-## Planned Features for October 2026
-
-•	Demo data upgrades: 2-week data, full-year data, simulation data.<br>
-•	Traffic Analysis Toolbox Volume 3 calibration envelopes and alternatives analysis.<br>
-•	Multi-day analysis features (e.g., before-and-after analyses, travel time reliability analyses).<br>
-•	Multi-day statistics and visualizations (e.g., line charts, histograms, probability density functions, cumulative distribution functions).
-
-## Planned Features for November 2026 and Beyond
+## Planned Features
 
 •	Similarity searches.<br>
 •	Agentic AI applications.<br>
@@ -30,7 +23,7 @@ TrafficCube is a spatiotemporal traffic analysis platform that seeks to allow AI
 
 ## Development History
 
-Oct 2026: Multi-day analysis statistics and visualizations. TAT Volume 3 calibration envelopes. Demo data upgrades.<br>
+Oct 2026: Multi-day analysis statistics and visualizations. TAT Volume 3 calibration and alternatives analysis. Demo data upgrades.<br>
 Sep 2026: TAT Volume 3 cluster analysis. Congestion episode screening. Optional customization of X, Y, and Z axis definitions.<br>
 Aug 2026: Ingest, fuse, and visualize multisource traffic data. Assign default color schemes and units of measurement for typical data types.
 
